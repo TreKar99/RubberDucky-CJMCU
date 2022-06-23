@@ -5,6 +5,8 @@ El original: https://shop.hak5.org/products/usb-rubber-ducky-deluxe.
 
 La versión barata (CJMCU): 
 
+El dispositivo se puede comprar por aliexpress con un precio más que económico, pero recomiendo comprar una versión con buen rating, para asegurar que es de una fuente fiable.
+
 
 ![cjmcu](https://user-images.githubusercontent.com/101529212/175336262-528525c1-bdb8-46ad-aeff-0122f1a7a77c.jpg)
 
