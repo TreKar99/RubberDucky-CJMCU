@@ -6,7 +6,7 @@ El original: https://shop.hak5.org/products/usb-rubber-ducky-deluxe.
 La versión barata (CJMCU): 
 
 
-https://user-images.githubusercontent.com/101529212/175335888-5b1d69a2-c28b-4583-a5ed-39f3a8ea49ba.mp4
+![cjmcu](https://user-images.githubusercontent.com/101529212/175335991-1e9b990e-782e-44d0-a177-136d4033945c.jpg)
 
 
 
