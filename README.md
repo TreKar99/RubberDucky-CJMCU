@@ -51,8 +51,11 @@ Pasos para la configuración:
 ![image](https://user-images.githubusercontent.com/101529212/175328317-0c129ebc-1577-4bef-95b8-5dd4569893de.png)
 
   Introducimos las opciones siguientes para el correcto funcionamiento: 
+  
     - Modo: c.
+    
     - Lenguaje: es.
+    
     - Payload: script.txt
     
 ![image](https://user-images.githubusercontent.com/101529212/175328343-aa966e8d-ed88-4b88-89c0-0c0beb450940.png)
