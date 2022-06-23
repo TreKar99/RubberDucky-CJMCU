@@ -1,7 +1,14 @@
-# Configuracion-CJMCU-BadUSB
+# Configuración CJMCU como BadUSB
 Configuración del CJMCU como un Rubber Ducky (BadUSB).
 
 El original: https://shop.hak5.org/products/usb-rubber-ducky-deluxe.
+
+La versión barata (CJMCU): 
+
+
+https://user-images.githubusercontent.com/101529212/175335888-5b1d69a2-c28b-4583-a5ed-39f3a8ea49ba.mp4
+
+
 
 El dispositivo CJMCU es una alternativa al Rubber Ducky oficial de Hak5, bastante más económico.
 Para usarlo como un BadUSB debemos configurarlo, tendremos que compilar en la CPU ATMELMEGA32U4 el firmware de Arduino como un Keyboard.
