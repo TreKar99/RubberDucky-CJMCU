@@ -25,15 +25,21 @@ Pasos para la configuración:
 ![image](https://user-images.githubusercontent.com/101529212/175327293-6487e54a-da16-4a99-a813-f5f1eb67766b.png)
 
 3. Conectar tarjeta microSD individualmente para meter la carpeta lang y el script.txt.
+
   Insertamos la tarjeta en el portátil, sea con una tarjeta adaptador o con usb adaptador, y copiamos estos dos archivos.
+  
   Consejo: usar una tarjeta microSD de bajo tamaño ya que por una banda no es necesario mucho espacio y mucho tamaño puede no ser compatible con el BadUSB.
 
 4. Poner la tarjeta microSD en el CJMCU - badUSB.
 
 5. Abrir el archivo cjmcu_badusb_es, conectar el CJMCU, y configurarlo.
-
+  
+  Importante: poner modo de Arduino -> Arduino Leonardo.
+  
 ![image](https://user-images.githubusercontent.com/101529212/175327727-9d00b22f-e8b0-465f-a869-ed8e51dddc1e.png)
 
+  Importante: escoger el puerto que nos salga predeterminado, en mi caso el COM3.
+  
 ![image](https://user-images.githubusercontent.com/101529212/175327837-f990dafe-693b-445b-83f9-d6ff117d37c2.png)
 
 6. Compilar en la placa del badUSB el firmware de configuración de placa base.
