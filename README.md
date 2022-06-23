@@ -6,7 +6,7 @@ El dispositivo CJMCU es una alternativa al Rubber Ducky oficial de Hak5, bastant
 
 
 1. Instalar el software Arduino IDE.
-2. Añadir libreria.
+2. Añadir la libreria.
 3. Conectar tarjeta microSD individualmente para meter la carpeta lang y el script.txt.
 4. Poner la tarjeta microSD en el CJMCU - badUSB.
 5. Abrir el archivo cjmcu_badusb_es, conectar el CJMCU, y configurarlo.
