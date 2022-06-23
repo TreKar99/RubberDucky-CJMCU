@@ -67,4 +67,4 @@ https://user-images.githubusercontent.com/101529212/175333350-de40f86b-b7b2-4198
 
 
 
-Créditos de los arreglos de la librería del firmware y librería de Arduino a: https://github.com/labuhardilladelloco/Bad-duck-esp
+Créditos de los arreglos del firmware de la placa base y librería de Arduino a: https://github.com/labuhardilladelloco/Bad-duck-esp
